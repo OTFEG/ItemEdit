@@ -1,0 +1,6 @@
+name: ItemCustomizer
+main: net.otfeg.itemcustomizer.ItemCustomizer
+version: 1.8
+
+commands:
+   enchant:
